@@ -29,6 +29,6 @@ Here are the key rules of the competition:
 This GitHub repository contains the following components for our line-following robot:
 
 - **Code**: The source code and programming logic for our robot.
-- **Documentation**: Task discription and Datasheets.
+- **Documentation**: This file include the task discription and details about sensors.
 - **Media**: Images, videos and other media showcasing our robot in action.
 
