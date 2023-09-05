@@ -33,4 +33,5 @@ This GitHub repository contains the following components for our line-following 
 - **Code**: The source code and programming logic for our robot.
 - **Documentation**: This file include the task discription, tested arena and details about sensors.
 - **Media**: Images, videos and other media showcasing our robot in action.
+- **Structure**:Since we didn't do any CAD design, I have added some images of our robot in different angles in here to get an idea.
 
