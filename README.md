@@ -1,6 +1,8 @@
 # Line-Following Robot Competition
 
 Welcome to the Line-Following Robot Competition! This README provides an overview of our robot, its capabilities, and the rules of the competition.
+![Full Robot 1](https://github.com/RavinduMPK/Line-Following-Robot/assets/68577937/cf01c12a-2439-4e41-9eac-f7c8401d338e)
+
 
 ## Competition Task
 
